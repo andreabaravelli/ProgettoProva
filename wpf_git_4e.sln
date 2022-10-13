@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_git_4e", "wpf_git_4e\wpf_git_4e.csproj", "{A5FEB76C-2769-4A61-AA5C-B8276A1E754A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5FEB76C-2769-4A61-AA5C-B8276A1E754A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FEB76C-2769-4A61-AA5C-B8276A1E754A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FEB76C-2769-4A61-AA5C-B8276A1E754A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FEB76C-2769-4A61-AA5C-B8276A1E754A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C9259C-4551-4F7C-8DB8-E295F6C760F6}
+	EndGlobalSection
+EndGlobal
